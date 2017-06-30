@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 
 })
 export class AppComponent {
-name="nmy first angular 4 app";
+name="nmy first angular 4 app change";
 }
